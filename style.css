@@ -16,15 +16,16 @@ h3 {
   font-family: "Playfair Display", Times, serif;
   display: block;
 }
-ol{
+h4{
+  ol
   text-align: center;
-  }
-ul{
-  text-align: center;}
-li{
+  
+ul
   text-align: center;
-}
-{
+li
+  text-align: center;
+
+
   padding: 50px 0;
 
 }
