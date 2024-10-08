@@ -16,15 +16,14 @@ h3 {
   font-family: "Playfair Display", Times, serif;
   display: block;
 }
-h4{
-  ol
+h4,
+ol,
+ul,
+li{
   text-align:left;
-  
-ul
-  text-align: left;
-li
-  text-align: left;
-
+}
+ 
+{
 
   padding: 50px 0;
 
