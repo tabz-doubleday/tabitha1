@@ -18,12 +18,12 @@ h3 {
 }
 h4{
   ol
-  text-align: center;
+  text-align:left;
   
 ul
-  text-align: center;
+  text-align: left-center;
 li
-  text-align: center;
+  text-align: left-center;
 
 
   padding: 50px 0;
