@@ -34,7 +34,9 @@ li{
   padding: 50px 0;
 
 }
-
+article{
+  text-align: left;
+}
 
 
 article div {
