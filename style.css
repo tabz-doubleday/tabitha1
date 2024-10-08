@@ -16,8 +16,8 @@ h3 {
   font-family: "Playfair Display", Times, serif;
   display: block;
 }
-ol{text-align: left;}
-ul{text-align: left;}
+ol{text-align: center;}
+ul{text-align: center;}
 article {
   padding: 50px 0;
 
