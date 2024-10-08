@@ -17,17 +17,19 @@ h3 {
   display: block;
   
 }
-ol,
-ul,
+ol{
+  text-align: center;
+}
+
+ul{
+  text-align: center;
+}
+
 li{
+  text-align: center;
 
  
-  text-align: center;
-  margin: 0 auto;
-  
-}
- 
-{
+
 
   padding: 50px 0;
 
