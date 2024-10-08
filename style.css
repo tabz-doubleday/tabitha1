@@ -4,7 +4,7 @@
 body {background-color: #eae2b7;
   color: #003049;
   font-family: "Source Sans Pro", Tahoma, Geneva, Verdana, sans-serif;
-  
+  text-align: center;
   padding: 40px;
 }
 
@@ -18,7 +18,7 @@ h3 {
   
 }
 ol{
-  text-align: left;
+  text-align: center;
 }
 
 ul{
@@ -26,7 +26,7 @@ ul{
 }
 
 li{
-  text-align: left;
+  text-align: center;
 
  
 
@@ -39,7 +39,7 @@ article{
  
 }
 
- padding: 50px 0;
+
 article div {
   text-align: center;
   width: 100%;
