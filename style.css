@@ -15,6 +15,7 @@ h3 {
   text-align: center;
   font-family: "Playfair Display", Times, serif;
   display: block;
+  margin: 0 auto;
 }
 ol,
 ul,
@@ -22,7 +23,7 @@ li{
 
  
   text-align: center;
-  margin-left: auto;
+  margin: 0 auto;
   
 }
  
@@ -42,12 +43,12 @@ article div {
 
 p {
   line-height: 1.5;
-  text-align: left;
+  text-align: center;
 }
 
 /* The div container constrains the content width within the main container to 600px */
 div {
-  margin: auto;
+  margin: 0 auto;
   width: 600px;
 text-align: center;
 
