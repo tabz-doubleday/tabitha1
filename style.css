@@ -22,7 +22,7 @@ ol{
 }
 
 ul{
-  text-align: left;
+  text-align: center;
 }
 
 li{
@@ -35,11 +35,11 @@ li{
 
 }
 article{
-  text-align: left;
-  padding: 50px 0;
+  text-align: center;
+ 
 }
 
-
+ padding: 50px 0;
 article div {
   text-align: center;
   width: 100%;
@@ -48,7 +48,7 @@ article div {
 
 p {
   line-height: 1.5;
-  text-align: left;
+  text-align: center;
 }
 
 /* The div container constrains the content width within the main container to 600px */
