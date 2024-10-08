@@ -17,12 +17,11 @@ h3 {
   display: block;
 }
 ol{
-  text-align: left-center;
+  text-align: left;
   }
 ul{
-  text-align: left-center;
-
- 
+  text-align: left-center;}
+{
   padding: 50px 0;
 
 }
