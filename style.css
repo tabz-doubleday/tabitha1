@@ -45,7 +45,7 @@ li{
 article{
   text-align: center;
     padding: 40px;
-  width: 50%;
+  width: 100%;
  
 }
 
@@ -54,6 +54,7 @@ article div {
   text-align: center;
   width: 100%;
     padding: 40px;
+  
   
 }
 
