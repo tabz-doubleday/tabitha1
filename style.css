@@ -6,6 +6,7 @@ body {background-color: #eae2b7;
   font-family: "Source Sans Pro", Tahoma, Geneva, Verdana, sans-serif;
   text-align: center;
   padding: 40px;
+      width: 50%;
 }
 
 /* Set the font family for any h1, h2, or h3 heading */
@@ -15,6 +16,7 @@ h3 {
   text-align: center;
   font-family: "Playfair Display", Times, serif;
   display: block;
+  width: 50%;
   
 }
 ol{
