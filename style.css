@@ -20,17 +20,19 @@ h3 {
 ol{
   text-align: center;
     padding: 40px;
-  width: 100%
+  width: 50%;
 }
 
 ul{
   text-align: center;
     padding: 40px;
+  width: 50%;
 }
 
 li{
   text-align: center;
     padding: 40px;
+  width:50%;
 
  
 
@@ -41,6 +43,7 @@ li{
 article{
   text-align: center;
     padding: 40px;
+  width: 50%;
  
 }
 
@@ -56,6 +59,7 @@ p {
   line-height: 1.5;
   text-align: center;
     padding: 40px;
+  width: 50%;
 }
 
 /* The div container constrains the content width within the main container to 600px */
