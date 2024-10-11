@@ -18,7 +18,7 @@ h4{
   font-family: "Playfair Display", Times, serif;
   display: block;
   width: 100%;
-  
+}
 ol, ul {
   list-style-position: inside; 
   margin: 0 auto; 
@@ -26,14 +26,7 @@ ol, ul {
 
 li {
   text-align: center; 
-
-   
-
- 
-
-
-  
-
+transform:translatex(-20);
 }
 article{
  
