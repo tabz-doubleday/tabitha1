@@ -24,7 +24,7 @@ ol{
   text-align: center;
     margin:center;
   padding: left;
- 
+ width:fit-content;
    transform:translateX(-30);
 }
 
@@ -32,14 +32,14 @@ ul{
   text-align: center;
      margin:auto;
   padding: left; 
-  width: fit content;
+  width: fit-content;
   transform:translateX(-30);
 }
 
 li{
   text-align: center;
     display: inline block;
-  width: 100%;
+  width: fit-content;
    
 
  
