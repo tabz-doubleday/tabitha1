@@ -21,23 +21,23 @@ h4{
 }
 
 ol{text-align: left;
-    margin-left: 20;
+  
     width: fit-content;
-     margin-left: auto;
-     margin-right: auto;
+     margin: 0 auto;
+  padding-left: 0;
      transform: translatex(-10%);
 }
 
 ul{text-align: left;
-   margin-left: 30;
-   width: fit-content;
-    margin-left: auto;
-    margin-right: auto;
-    transform: translatex(-10%);
+  
+    width: fit-content;
+     margin: 0 auto;
+  padding-left: 0;
+     transform: translatex(-10%);
  }
 li {
   text-align: center; 
-  display: 
+  margin-bottom: 10px;
 }
 
 article {
