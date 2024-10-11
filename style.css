@@ -30,7 +30,7 @@ ol{
 
 ul{
   text-align: center;
-     margin:left;
+     margin:auto;
   padding: left; 
   width: fit content;
   transform:translateX(-30);
