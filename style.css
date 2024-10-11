@@ -12,7 +12,8 @@ body {background-color: #eae2b7;
 /* Set the font family for any h1, h2, or h3 heading */
 h1,
 h2,
-h3 {
+h3,
+h4{
   text-align: center;
   font-family: "Playfair Display", Times, serif;
   display: block;
@@ -49,7 +50,10 @@ li{
 }
 article{
   text-align: center;
-    Padding:auto;
+   line-height: 1.5;
+  
+    padding: 40px;
+  width: 100%;
   
 
  
