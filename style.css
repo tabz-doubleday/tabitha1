@@ -22,8 +22,6 @@ h4{
 }
 ol{
   text-align: center;
-    margin:center;
-  padding: left;
  width:fit-content;
    transform:translateX(-30);
   display:inline-block;
@@ -32,7 +30,7 @@ ol{
 ul{
   text-align: center;
      margin:auto;
-  padding: left; 
+
   width: fit-content;
   transform:translateX(-30);
   display:inline-block;
