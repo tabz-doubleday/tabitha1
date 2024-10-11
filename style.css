@@ -19,28 +19,14 @@ h4{
   display: block;
   width: 100%;
   
-}
-ol{
-  text-align: center;
- width:fit-content;
-   transform:translateX(-30);
-
+ol, ul {
+  list-style-position: inside; 
+  margin: 0 auto; 
 }
 
-ul{
-  text-align: center;
-     margin:auto;
+li {
+  text-align: center; 
 
-  width: fit-content;
-  transform:translateX(-30);
-
-}
-
-li{
-  text-align: center;
- 
-  width: fit-content;
- 
    
 
  
