@@ -21,7 +21,7 @@ h3 {
 }
 ol{
   text-align: center;
-    margi:left;
+    margin:left;
   padding: left;
   width: fit content;
    transform:translateX(-10);
@@ -29,7 +29,7 @@ ol{
 
 ul{
   text-align: center;
-     margi:left;
+     margin:left;
   padding: left; 
   width: fit content;
   transform:translateX(-10);
@@ -49,8 +49,9 @@ li{
 }
 article{
   text-align: center;
-    
-  width: 50%;
+    Padding:auto;
+  
+
  
 }
 
