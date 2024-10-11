@@ -21,20 +21,25 @@ h3 {
 }
 ol{
   text-align: center;
-    
-  width: 100%;
+    margi:left;
+  padding: left;
+  width: fit content;
+   transform:translateX(-10);
 }
 
 ul{
   text-align: center;
-    
-  width: 100%;
+     margi:left;
+  padding: left; 
+  width: fit content;
+  transform:translateX(-10);
 }
 
 li{
   text-align: center;
-    
+    display: inline block;
   width: 100%;
+   transform:translateX(-10);
 
  
 
