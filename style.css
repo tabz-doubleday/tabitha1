@@ -26,6 +26,7 @@ ol{
   padding: left;
  width:fit-content;
    transform:translateX(-30);
+  display:inline-block;
 }
 
 ul{
@@ -34,12 +35,14 @@ ul{
   padding: left; 
   width: fit-content;
   transform:translateX(-30);
+  display:inline-block;
 }
 
 li{
   text-align: center;
-    display: inline block;
+ 
   width: fit-content;
+  display:inline-block;
    
 
  
