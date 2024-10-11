@@ -19,15 +19,17 @@ h4{
   display: block;
   width: 100%;
 }
+
 ol, ul {
-  list-style-position: inside; 
+  list-style-position: inside;
   margin: 0 auto; 
+  text-align: center; 
 }
 
 li {
   text-align: center; 
-transform:translatex(-20);
 }
+
 article{
  
   text-align: center;
