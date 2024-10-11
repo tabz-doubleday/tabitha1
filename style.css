@@ -73,7 +73,8 @@ img {
 
 }
 nav{
-  text-align: center;}
+  text-align: center;
+margin-bottom: 20px;}
  a:link { color: #d62828; }
 a:visited { color:#d62828}
 a:hover{color:#f77f00;
