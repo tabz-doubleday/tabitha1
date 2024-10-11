@@ -22,9 +22,9 @@ h4{
 }
 ol{
   text-align: center;
-    margin:left;
+    margin:center;
   padding: left;
-  width: fit content;
+ 
    transform:translateX(-30);
 }
 
