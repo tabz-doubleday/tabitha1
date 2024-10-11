@@ -21,19 +21,17 @@ h4{
 }
 
 ol{text-align: left;
-  
-    width: fit-content;
-     margin: 0 auto;
+  width: fit-content;
+  margin: 0 auto;
   padding-left: 0;
-     transform: translatex(-10%);
+  transform: translatex(-30%);
 }
 
 ul{text-align: left;
-  
     width: fit-content;
-     margin: 0 auto;
-  padding-left: 0;
-     transform: translatex(-10%);
+    margin: 0 auto;
+    padding-left: 0;
+    transform: translatex(-10%);
  }
 li {
   text-align: center; 
