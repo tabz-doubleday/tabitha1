@@ -44,14 +44,12 @@ display: block;
 ul{text-align: left-center;
     width: fit-content;
    margin-left: 25%;
-  
-
 
  }
 
 li {
   text-align: center; 
-  margin-bottom: 10px;
+  
 }
 
 article {
