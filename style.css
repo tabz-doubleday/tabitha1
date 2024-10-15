@@ -9,14 +9,23 @@ body {
 }
 
 /* Set the font family for any h1, h2, or h3 heading */
-h1,
-h2,
-h3,
-h4{
+h1{
   text-align: center;
   font-family: "Playfair Display", Times, serif;
   display: block;
-  width: 100%;
+  margin: 0 auto;
+}
+h2{
+  text-align: center;
+  font-family: "Playfair Display", Times, serif;
+  display: block;
+  margin: 0 auto;
+}
+h3{
+  text-align: center;
+  font-family: "Playfair Display", Times, serif;
+  display: block;
+  margin: 0 auto;
 }
 
 ol{text-align: center;
