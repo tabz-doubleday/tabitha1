@@ -16,18 +16,21 @@ h1{
   font-family: "Playfair Display", Times, serif;
   display: block;
   margin: 0 auto;
+  font-size: 55px;
 }
 h2{
   text-align: center;
   font-family: "Playfair Display", Times, serif;
   display: block;
   margin: 0 auto;
+  font-size: 35px;
 }
 h3{
   text-align: center;
   font-family: "Playfair Display", Times, serif;
   display: block;
   margin: 0 auto;
+  font-size: 25px;
 }
 
 ol{text-align: left-center;
