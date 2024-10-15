@@ -1,11 +1,13 @@
 /* The @import rule below imports the Playfair Display and Source Sans Pro fonts into the stylesheet. You don't have to edit this line.*/
 @import url("https://fonts.googleapis.com/css2?family=Playfair+Display&family=Source+Sans+Pro:wght@400&display=swap");
 
-body {
+
+body {background-color: #eae2b7;
   color: #003049;
   font-family: "Source Sans Pro", Tahoma, Geneva, Verdana, sans-serif;
   padding: 40px;
-  background-color: #eae2b7;
+      text-align: centered-left;
+      margin: 0;
 }
 
 /* Set the font family for any h1, h2, or h3 heading */
@@ -28,19 +30,22 @@ h3{
   margin: 0 auto;
 }
 
-ol{text-align: center;
+ol{text-align: left-center;
   width: fit-content;
-  margin: 0 auto;
+  margin-left: 30%;
   padding-left: 0;
-  transform: translatex(-50%);
-  
+   transform: translatex(-30%);
+display: block;
 }
 
-ul{text-align: left;
+ul{text-align: left-center;
     width: fit-content;
-   
-   
+   margin-left: 25%;
+  
+
+
  }
+
 li {
   text-align: center; 
   margin-bottom: 10px;
@@ -54,7 +59,7 @@ article {
 
 }
 
- 
+
 
 
 
@@ -64,23 +69,28 @@ text-align: center;
 }
 
 p {
+ 
+  
    line-height: 1.5;
   text-align: center;
     padding: auto;
   width: 100%;
+  
+ 
 }
 
 
 div {
   margin: auto;
   width: 600px;
+ 
 }
 img{
 width: 100%;
   max-width: 200px;
-  height: auto;
   display: block;
   margin: 0 auto;
+  height: auto;
 }
 nav{
   text-align: center;
@@ -90,8 +100,8 @@ margin-bottom: 20px;
 a:link { color: #d62828; }
 a:visited { color:#d62828; }
 a:hover{color:#f77f00; }
-        
-  
+
+
 
 hr {
   border: 1px solid black;
@@ -108,4 +118,4 @@ hr {
           }
 h4, footer {
   text-align: center;
-}
+  
