@@ -82,7 +82,7 @@ p {
 
 div {
   margin: auto;
-  width: 600px;
+  width: 100%;
  
 }
 img{
@@ -118,4 +118,6 @@ hr {
           }
 h4, footer {
   text-align: center;
+  margin: 0 auto;
+}
   
