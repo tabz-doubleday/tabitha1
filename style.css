@@ -29,8 +29,6 @@ ol{text-align: left;
 
 ul{text-align: left;
     width: fit-content;
-    margin: 0 auto;
-    
     transform: translatex(-10%);
  }
 li {
