@@ -52,7 +52,7 @@ text-align: center;
 }
 
 p {
-  line-height: 1.5;
+   line-height: 1.5;
   text-align: center;
     padding: auto;
   width: 100%;
@@ -60,10 +60,8 @@ p {
 
 
 div {
-  margin: 0 auto;
+  margin: auto;
   width: 600px;
-text-align: center;
-
 }
 
 img {
