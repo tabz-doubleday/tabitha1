@@ -18,11 +18,12 @@ h4{
   width: 100%;
 }
 
-ol{text-align: left;
+ol{text-align: center;
   width: fit-content;
   margin: 0 auto;
   padding-left: 0;
   transform: translatex(-50%);
+   display: flex;
 }
 
 ul{text-align: left;
